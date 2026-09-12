@@ -1,0 +1,82 @@
+Video 1: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ2UV2PQC6JA5BA24QBQB44TKLZA&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQBUrp8BeSDoQa5AMA85NS8gAd7zVo15mLid1kQwE5aBIbc&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQBUrp8BeSDoQa5AMA85NS8gAd7zVo15mLid1kQwE5aBIbc&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=40529340-81aa-4fa9-89f9-6bccd10f603e&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Chapters 1-3 of Django 5 for the impatient. 
+- Installed all software needed.
+- Created initial app in Django
+- Created skeleton templates for text / formatting in html. (About, index, and base page).
+- Started the css portion, ran into a bug with the intial css formatting, will be fixing in video 2. 
+
+Video 2: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ45O34AMEL4CBBJEAFVNAFWHPRP&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQCddvgGEXwQQpIAtWgLY74vAWkExgMpwbORZ-vedA7_1ZE&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQCddvgGEXwQQpIAtWgLY74vAWkExgMpwbORZ-vedA7_1ZE&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=a1331966-e05a-49a7-88f9-c57811153726&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Continuing chap3
+- Continuing chapter 3 and fixing visual bug
+- Will try to continue chapter 3 to see if i can fix the bug
+- still researching the bug, i think it may be within my style css
+- did not fix the bug, will research more in next video. 
+
+Video 3: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQZH437QAQFI6ZE2FSBNYCD43FEB&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQAn5v8AQKj2SaLILcCHzZSBAVjuHecgUNdy-Fwlz_AlXSk&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQAn5v8AQKj2SaLILcCHzZSBAVjuHecgUNdy-Fwlz_AlXSk&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=de6fa1e2-27f7-471c-a8bb-9c2ba093f8ca&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Fixing the visual bug
+- I will first go back to chapter 2 and three and 
+make sure im following it correctly. 
+- Found out the bug is within my code, because the styling is incorrect in multiple browsers
+- Will ask in ED about it later, will continue with the book from now.
+
+Video 4: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ7S7HHTYM7I3JFYR5CMGZNWH7BP&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDy-c88M-jaS4j0TDZbY_wvAXZMGg26T0XAJHvOFiX8imY&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDy-c88M-jaS4j0TDZbY_wvAXZMGg26T0XAJHvOFiX8imY&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=bc6d1b8f-6e42-47d4-a756-876a7242b64a&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Continuing through the Chapters
+- I fixed the bug through asking a TA in ED. 
+- Will continue through chapter 3 and on.
+- On the last part of chap3, some of the footer is not showing up, trying to fix that now.
+- Currently in class, will try to fix this footer issue out of class. 
+
+Video 5 : https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ6I32LXUIKSOVHKTQXJTOHYXU6E&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDI3pd6IVJ1TqnC6ZuPi9PEAddAazHUZiIXYW7qohMN2KI&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDI3pd6IVJ1TqnC6ZuPi9PEAddAazHUZiIXYW7qohMN2KI&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=a3fa3fc5-b5fa-4723-ab0c-ccdd7d1b4f2d&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Issue was not an issue, the window wasn't fullscreen.
+- Continuing through chapter 4.
+- Movie descriptions are a bit buggy
+- Fixed the movies page, now for each movie the descriptions arent showing well.
+- Finished the chapter, but the descriptions aren't showing correctly. Will work on that and continue to chap 5 in the next video. 
+
+Video 6 : https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ6UFIZO774Z4BBZSY3LSXOOABZM&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDUKjLv_5ngQ5lja5Xc4AcsAeF7z-J4kp9FIb8lDnQ00T0&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDUKjLv_5ngQ5lja5Xc4AcsAeF7z-J4kp9FIb8lDnQ00T0&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=4078e794-f37d-47e4-afc6-b90cb6792705&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Continuing to fix the bug / move on to chap 5 
+- Fixed issue, was just a weird problem when writing the indented code from the book. 
+- Now moving onto chapter 5 - working with models
+- Updated models.py and am now installing pillow
+- My python was too new for the current django, had to downgrade. 
+- Django is a bit glitched after downgrading python, will fix in between this video and the next. 
+
+Video 7: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ36MZA5V4OFRZGL7H4XWKVBYJZD&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQB-ZkHa8cWOTL-fl7KqHCcjAQ5NQ5bZJS6oCAq2fD6iPxg&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQB-ZkHa8cWOTL-fl7KqHCcjAQ5NQ5bZJS6oCAq2fD6iPxg&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=b14ce5ee-c2df-4982-a957-39c1959eb42a&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Fixed python (had to downgrade to support admin)
+- Will continue chapter 5
+- Finished chapter 5, created movie app and integrated it within site, created a movie in admin and imported image into media
+- Now starting chapter 6, collecting/displaying data from database
+- Added movies through the database, will continue by modifying individual movie pages in the next chapter.
+
+Video 8: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ7KSY5EHEMIUVE3WGQY2PJQORO7&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDqljpDkYilSbsaGNPTB0XfAXj5LJAbVOSbvn3Qjxp50As&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDqljpDkYilSbsaGNPTB0XfAXj5LJAbVOSbvn3Qjxp50As&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=7e6bd412-4d31-4d83-8821-649037885f38&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Continuing Chapter 6, creating individual movie pages. 
+- Finished chatper 6, movies are now collected from within the database and the search function works. 
+- Now doing chapter 7, understanding the database. (I DO NOT NEED TO SWITCH TO MYSQL)
+- Finished chapter 7, updated the admin base to order by name and have a search option for the movies.
+- Now doing chapter 8, implementing user signup and login!
+- Implemented one extra user and will go on to create the UserCreationForm in the next video. 
+
+Video 9: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQZTBLMVRT4VP5GZWHRWNW36V5RC&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQAzCtlYz5V_TZseNm236vYiAfhG3bHdLnCaelhSbCFMbN0&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQAzCtlYz5V_TZseNm236vYiAfhG3bHdLnCaelhSbCFMbN0&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=69b2620f-3e34-43d0-9323-6ed7f271d6e6&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Continuing chapter 8, hopefulle finishing. Starting off with the UserCreationForm
+- Close to finishing chapter 8, but I am getting an error with auth_logout. Will find the fix. 
+
+Video 10: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ3QWQPV4FJMCNDISSQOBDVU4ZEE&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQBwtB9eFSwTRolKDgjrTmSEAUxdLvfS5MEhvNiKaN0H3Ew&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQBwtB9eFSwTRolKDgjrTmSEAUxdLvfS5MEhvNiKaN0H3Ew&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=5206d773-5f1e-4e97-9b13-9a1d8060d554&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Finished chapter 8, starting chapter 9 - letting users create, read, update, and delete movie reviews
+- had a glitch with the syntax of the show.html for creating reviews, has been fixed. 
+- While doing chapter 9, im having a glitch with the Movie value in views.py, will fix by next video. 
+
+Video 11: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ6UDHKZGO25NNCKXZIH52CGWDMS&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDUGdWTO11rRKvlB-6Eaw2SATxjdNGzAUCOcYqAzXTMAxE&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQDUGdWTO11rRKvlB-6Eaw2SATxjdNGzAUCOcYqAzXTMAxE&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=3eb4c116-8255-4477-a05d-6222d5f2fa9c&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Bug was fixed, accidentally deleted an import in movies/views.py
+- Will continute chapter 9
+- Finished chapter 9, I created the reviews and the functions to add, edit, and delete reviews. Only the user who wrote the review 
+can do the specific action on the review!
+- Will start chapter 10 - implementing a shopping cart, in the next video. 
+
+Video 12: https://teams.microsoft.com/l/meetingrecap?driveId=b%21slIbT37KiEiiEssWrfr1snlBgWeaxgBEhc-ZWLfP7gyFcywUAp_dQKPTwlPI5nOF&driveItemId=01ZHVIHQ3X54LLFNKAEVBZCBIMCMJJQWCE&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQB37xaytUAlQ5EFDBMSmFhEAUEtDcPnQEV5GlmY0oxq5I4&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhvijayakumar32_gatech_edu%2FIQB37xaytUAlQ5EFDBMSmFhEAUEtDcPnQEV5GlmY0oxq5I4&threadId=19%3Ameeting_NGI3YzIwM2MtNGFhNy00OTIwLTg1M2EtYWRhODU1ZmRjZjUz%40thread.v2&organizerId=bf6b0b14-5d20-4b77-bf56-a8233e4e9a32&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=6f9bb480-0b53-4b17-938c-ad076d1cf41d&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+- Starting chapter 10, we will be implementing the shopping cart. 
+- Finished chapter 10, added the cart option and I can now add movies to cart and remove all movies from cart.
+- Will start chapter 11 next video. 
+
+Video 13: 
+- Finished chapter 11, created models for orders and items
+- Starting chapter 12, which is implementing the purchases / purchase page
