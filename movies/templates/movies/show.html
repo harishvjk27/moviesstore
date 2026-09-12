@@ -53,6 +53,14 @@
               >Delete
             </a>
             {% endif %}
+            {% if user.is_authenticated %}
+            <form method = "post" action ="{% url 'movies.report_review' id=template_data.movie.id review_id=review.id %}" class="d-inline">
+              {% csrf_token %}
+              <button type ="submit" class="btn btn-outline-danger">
+              Report
+            </button>
+          </form>
+          {% endif %}
           </li>
           {% endfor %}
         </ul>
